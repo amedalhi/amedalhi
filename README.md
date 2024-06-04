@@ -1,7 +1,11 @@
-### Hi, I'm Amedalhi 👋
----
+        const profile = {
+            name: "Amedalhi Papias",
+            location: "Fresno, CA",
+            skills: {
+                programming: ["JavaScript", "TypeScript", "Node.js", "HTML", "CSS"],
+                frameworks: "Astro",
+                currentlyLearning: "React",
+            },
+            interest: ["food science", "boardgames", "running", "making stuff"]
 
-* Web developer with a Food Science background
-* Experience as a Food Product Developer
-* Right now I'm learning React
-* I'm passionate about food, tech, boardgames, and makings things.  
+        }
