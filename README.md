@@ -3,8 +3,8 @@
             location: "Fresno, CA",
             skills: {
                 programming: ["JavaScript", "TypeScript", "Node.js", "HTML", "CSS"],
-                frameworks: "Astro",
-                currentlyLearning: "React",
+                frameworks: ["Astro", "React"],
+                currentlyLearning: "Go",
             },
             interest: ["food science", "boardgames", "running", "making stuff"]
 
