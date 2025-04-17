@@ -7,5 +7,5 @@
                 currentlyLearning: "Go",
             },
             interest: ["food science", "boardgames", "running", "making stuff"],
-            personal-website: "[amedalhi.dev](https://amedalhi.dev)"
+            personal-website: [amedalhi.dev](https://amedalhi.com/)
         }
