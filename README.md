@@ -6,6 +6,6 @@
                 frameworks: ["Astro", "React"],
                 currentlyLearning: "Go",
             },
-            interest: ["food science", "boardgames", "running", "making stuff"]
-
+            interest: ["food science", "boardgames", "running", "making stuff"],
+            personal-website: "[amedalhi.dev](https://amedalhi.dev)"
         }
